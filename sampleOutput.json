@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine: UK withdrawing some embassy staff from Kyiv - BBC News",
+      "description": "About half of the staff working in Kyiv will return to the UK amid fears of a Russian invasion.",
+      "url": "https://www.bbc.com/news/world-europe-60106416",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0ED/production/_122958435_ukrainegetty.jpg",
+      "publishedAt": "2022-01-24T10:07:31Z",
+      "content": "Image source, Getty Images\r\nImage caption, A Ukrainian civilian takes part in a training exercise - Russian forces have been mounting at the border\r\nThe UK has begun to withdraw staff from the Britis… [+3906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WISN Milwaukee"
+      },
+      "author": null,
+      "title": "'A horrible crime': 6 homicide victims found in Milwaukee home - WISN Milwaukee",
+      "description": "Police were called Sunday afternoon to the scene near North 21st and West Wright streets.",
+      "url": "https://www.wisn.com/article/5-people-found-dead-inside-milwaukee-home/38860232",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/0123-5-dead-1642979786.jfif?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+      "publishedAt": "2022-01-24T09:22:30Z",
+      "content": "MILWAUKEE —Six victims have been found dead in Milwaukee.\r\nThe breaking information was provided to WISN 12 from Milwaukee Fire Department officials.\r\nPolice were called about 3:45 p.m. Sunday aftern… [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "JON GAMBRELL Associated Press",
+      "title": "UAE says it intercepted 2 ballistic missiles over Abu Dhabi - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/International/wireStory/uae-intercepts-ballistic-missilles-abu-dhabi-82432668",
+      "urlToImage": "https://s.abcnews.com/images/International/WireAP_794f81d3bf7e475d96ca3d4bcff16fac_16x9_992.jpg",
+      "publishedAt": "2022-01-24T09:00:00Z",
+      "content": "DUBAI, United Arab Emirates -- The United Arab Emirates intercepted two ballistic missiles claimed by Yemen's Houthi rebels over the skies of Abu Dhabi early Monday, authorities said, the second atta… [+5982 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Melissa Alonso, CNN",
+      "title": "Mark Rosenberg: FIU president apologizes for workplace conduct behind sudden resignation - CNN",
+      "description": "Former Florida International University President Mark Rosenberg, who abruptly resigned Friday citing health concerns, acknowledged Sunday that his workplace conduct towards a colleague was part of his reasoning for stepping down.",
+      "url": "https://www.cnn.com/2022/01/24/us/florida-international-university-president-resignation-workplace-conduct/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220124031731-mark-rosenberg-fiu-12142021-super-tease.jpg",
+      "publishedAt": "2022-01-24T08:58:00Z",
+      "content": "(CNN)Former Florida International University President Mark Rosenberg, who abruptly resigned Friday citing health concerns, acknowledged Sunday that his workplace conduct towards a colleague was part… [+2308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "FOXBusiness",
+      "title": "Bitcoin prices continue decline, Ethereum, Dogecoin down as well - Fox Business",
+      "description": "Bitcoin prices continue to fall in early Monday morning trading as the cryptocurrency continues the decline it begun last week.",
+      "url": "https://www.foxbusiness.com/markets/bitcoin-prices-continue-decline-ethereum-dogecoin-down-as-well",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/Bitcoin-Volatility.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-24T08:51:06Z",
+      "content": "Bitcoin prices continue to fall in early Monday morning trading as the cryptocurrency continues the decline it begun last week.\r\nBitcoin was trading at $35,075, down 1.5% Monday, while rival cryptocu… [+1996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rochester Democrat and Chronicle"
+      },
+      "author": "Ryan Miller, Democrat and Chronicle",
+      "title": "Patrick Mahomes stopped celebrating Chiefs win to run across the field and hug Josh Allen - Democrat & Chronicle",
+      "description": "Mahomes dropped his helmet and wrapped his arms around another player on the field. But it wasn't someone in red and gold. It was Josh Allen.",
+      "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2022/01/24/patrick-mahomes-josh-allen-sportsmanship-after-kansas-city-chiefs-defeat-buffalo-bills-playoffs/6633434001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/24/PROC/644e572e-edc0-4285-b220-13ed8510c729-Hug.JPG?auto=webp&crop=1091,614,x69,y45&format=pjpg&width=1200",
+      "publishedAt": "2022-01-24T08:29:05Z",
+      "content": "Patrick Mahomes jumped into Travis Kelce's arms in the end zone to celebrate their game-winning touchdown hookup. Then he did a 180, sprinting back to midfield and dodging his teammates who wanted to… [+2371 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Patrick Dane",
+      "title": "Microsoft's Activision move proves the competition is no longer Sony, it's something much bigger - TechRadar",
+      "description": "The rules and players have changed",
+      "url": "https://www.techradar.com/news/microsofts-activision-move-proves-the-competition-is-no-longer-sony-its-something-much-bigger",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cqFecBVrenejqUiKTppmNh-1200-80.jpg",
+      "publishedAt": "2022-01-24T08:18:18Z",
+      "content": "Microsoft's proposed takeover of Activision Blizzard is currently the black hole that is, if not all-consuming, at least altering the reality of other news in the gaming space. The event horizon that… [+7042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Peter King",
+      "title": "Peter King's Football Morning In America Column: NFL Playoffs Divisional Round - NBC Sports - NBC Sports",
+      "description": "In 25 hours on the greatest playoff weekend in the 102-year history of professional football, the headlines, one by one, kept overtaking the last one:BENGALS KNOCK OFF 1 SEED TO REACH FIRST AFC TITLE GAME SINCE 1988 NINERS KNOCK OFF 1 SEED ON 45-YARD FIELD GO…",
+      "url": "https://profootballtalk.nbcsports.com/2022/01/24/nfl-divisional-playoffs-weekend-fmia-peter-king/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1237946943.jpg",
+      "publishedAt": "2022-01-24T08:07:42Z",
+      "content": "In 25 hours on the greatest playoff weekend in the 102-year history of professional football, the headlines, one by one, kept overtaking the last one:\r\nBENGALS KNOCK OFF 1 SEED TO REACH FIRST AFC TIT… [+61313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Kishan Vyas",
+      "title": "Samsung Galaxy S22 European pricing leaks ahead of the official launch - XDA Developers",
+      "description": "Reliable tipster Roland Quandt has shared European pricing details for all SKUs of the Galaxy S22, Galaxy S22 Plus, and Galaxy S22 Ultra.",
+      "url": "https://www.xda-developers.com/galaxy-s22-european-pricing-leak/",
+      "urlToImage": "https://www.xda-developers.com/files/2021/09/Galaxy-S22-S22-Plus-Feature-Image.jpg",
+      "publishedAt": "2022-01-24T06:52:00Z",
+      "content": "Thanks to a steady stream of leaks over the past few months, we know quite a lot about Samsungs upcoming Galaxy S22 phones, including their specifications and design. You can already pre-book a Galax… [+1957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Lovia Gyarkye",
+      "title": "Thandiwe Newton in ‘God’s Country’: Film Review | Sundance 2022 - Hollywood Reporter",
+      "description": "The Emmy award-winning actress stars in Julian Higgins’ thriller about a college professor’s escalating feud with two hunters.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/thandiwe-newton-gods-country-review-sundance-2022-1235078898/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/Gods-Country-2-Photo-Credit-GC-Film-Publicity-H-2022.jpg?w=1024",
+      "publishedAt": "2022-01-24T06:50:46Z",
+      "content": "A solitary woman’s grief lures us into God’s Country, Julian Higgins’ slow-burn drama. Crisp, steady shots of snow-powdered mountainous terrain sustain us. And a brash, violent feud traps us, making … [+5238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Laura Bradley",
+      "title": "Evan Rachel Wood Exposes Marilyn Manson's Nazi House of Horrors in 'Phoenix Rising' - Daily Beast",
+      "description": "The activist opens up about her harrowing abuse allegations, deciding to speak out, and hearing from other survivors: “It was like finding out that you had dated a serial killer.”",
+      "url": "https://www.thedailybeast.com/evan-rachel-wood-exposes-marilyn-mansons-nazi-house-of-horrors-in-sundance-doc-phoenix-rising",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1643003591/220123-phoenix-rising-tease-01_slbkec",
+      "publishedAt": "2022-01-24T06:00:45Z",
+      "content": "In director Amy Bergs new documentary Phoenix Rising, Evan Rachel Wood holds Marilyn Manson accountable for the abuse she says she endured during their relationship, which began when she was 18 years… [+7601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Jenna Laine",
+      "title": "Tom Brady says his thoughts are on Tampa Bay Buccaneers' playoff exit, not own future - ESPN",
+      "description": "Tom Brady says he'll take it day by day when it comes to gauging whether he'll return to the Bucs next season. \"I haven't put a lot of thought into it,\" he said after the team's season-ending 30-27 loss to the Rams.",
+      "url": "https://www.espn.com/nfl/story/_/id/33136288/tom-brady-says-thoughts-tampa-bay-buccaneers-playoff-exit-not-own-future",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0123%2Fr965090_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-01-24T05:18:25Z",
+      "content": "TAMPA, Fla. -- Tom Brady said Sunday night that it was too soon for him to think about his future and that his emotions were still tied to the Tampa Bay Buccaneers' heart-breaking, last-second playof… [+5665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Taliban begin talks with western officials in Oslo - BBC News",
+      "description": "The talks, set to last three days, will cover human rights and the humanitarian crisis in the country.",
+      "url": "https://www.bbc.com/news/world-asia-60106407",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149F1/production/_122956448_f0a3c8c5-1127-47d5-8e56-e994b3715993.jpg",
+      "publishedAt": "2022-01-24T05:18:14Z",
+      "content": "Members of the Taliban are meeting with western officials in Norway for the first talks in Europe since the group took control of Afghanistan. \r\nThe talks, set to last three days, will cover human ri… [+3166 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Yakuza Series Creator Toshihiro Nagoshi Establishes Nagoshi Studio at NetEase Games - IGN - IGN",
+      "description": "NetEase Games has announced that it has established Nagoshi Studio, a new game development studio that is led by Yakuza series creator Toshihiro Nagoshi.",
+      "url": "https://www.ign.com/articles/yakuza-series-creator-toshihiro-nagoshi-establishes-nagoshi-studio-at-netease-games",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/01/24/nagoshi-1642999683660.png?width=1280",
+      "publishedAt": "2022-01-24T04:53:50Z",
+      "content": "NetEase Games has announced that it has established Nagoshi Studio, a new game development studio that is led by Yakuza series creator Toshihiro Nagoshi.\r\nAs reported by Gematsu, Nagoshi confirmed th… [+3655 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "John Bowden",
+      "title": "Bill Barr: Capitol riot panel will speak to former Attorney General about order to seize voting machines - The Independent",
+      "description": "Barr was one of Trump officials who defied president on false 2020 claims",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/bill-barr-riot-committee-testimony-b1999053.html",
+      "urlToImage": "https://static.independent.co.uk/2022/01/18/15/Books_William_Barr_66218.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2022-01-24T04:27:31Z",
+      "content": "The House select committee investigating the Jan 6 attack on Congress is seeking an interview with former Attorney General William Barr following the shocking revelation first reported by Politico th… [+2447 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan",
+      "title": "5 richest tech tycoons lose $85B in 2022 amid market selloff - Business Insider",
+      "description": "Elon Musk, the world's richest person, has lost $27 billion in 2022, and is now worth $243 billion. In November his wealth stood above $300 billion.",
+      "url": "https://www.businessinsider.com/world-top-5-tech-tycoons-lost-85-billion-market-selloff-2022-1",
+      "urlToImage": "https://i.insider.com/5f5289ede6ff30001d4e7364?width=1200&format=jpeg",
+      "publishedAt": "2022-01-24T04:27:05Z",
+      "content": "The world's five richest tech tycoons collectively lost $85.07 billion of their wealth in the first few weeks of 2022 as their fortunes took a big hit from last week's market selloff.\r\nThe losses sen… [+1334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jesse O’Neill",
+      "title": "Texas cop fatally shot during midnight traffic stop - New York Post ",
+      "description": "The suspect sprayed Harris County Corporal Charles Galloway’s patrol car with gunfire before fleeing the scene after he was pulled over for a traffic stop.",
+      "url": "https://nypost.com/2022/01/23/texas-cop-fatally-shot-during-midnight-traffic-stop/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/galloway.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-01-24T03:25:00Z",
+      "content": "A Texas police officer was shot dead during a Sunday morning traffic stop in Houston and the suspect was in the wind.\r\nHarris County Corporal Charles Galloway pulled over a car at 12:45 a.m. and the … [+581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Stephen M. Lepore",
+      "title": "NASA cameras discover boulder tracks proving evidence of recent earthquakes on Mars - Daily Mail",
+      "description": "The pictures were captured between 2006 and 2020 by a camera onboard the Mars Reconnaissance Orbiter HiRISE, which was launched in 2005.",
+      "url": "https://www.dailymail.co.uk/news/article-10433339/NASA-cameras-discover-boulder-tracks-proving-evidence-recent-earthquakes-Mars.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/23/23/53283513-0-image-a-12_1642980446560.jpg",
+      "publishedAt": "2022-01-24T02:11:00Z",
+      "content": "Scientists believe they may have discovered records of tumbling boulders on Mars caused by earthquakes on the red planet. \r\nThe boulders leave a herringbone-like pattern, thousands of which have been… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Cara Lombardo",
+      "title": "Activist Investor to Call on Peloton to Fire Its CEO - The Wall Street Journal",
+      "description": "Blackwells Capital to push stationary-bike maker to explore a sale, sources say",
+      "url": "https://www.wsj.com/articles/activist-investor-to-call-on-peloton-to-fire-its-ceo-11642982211",
+      "urlToImage": "https://images.wsj.net/im-472510/social",
+      "publishedAt": "2022-01-24T01:32:00Z",
+      "content": "An activist investor wants Peloton Interactive Inc. to fire its chief executive and explore a sale after the stationary-bike makers stock plummeted more than 80% from its high, as growth slowed.Black… [+3849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Daily News"
+      },
+      "author": "Theresa Braine",
+      "title": "Man flown to Texas on ventilator dies of COVID - New York Daily News",
+      "description": "A Minnesota man severely ill with COVID whose wife flew him to Texas for treatment after winning court order to keep him on ventilator dies of his illness. Scott Quiner was 55.",
+      "url": "https://www.nydailynews.com/coronavirus/ny-covid-minnesota-man-intubated-texas-wife-court-dies-coronavirus-20220124-mxmmdbyrt5he5lq6dkuk3wlh74-story.html",
+      "urlToImage": "https://www.nydailynews.com/resizer/Af9n9N7IAR3KxY7b1wKifBdt7LA=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZDSG6NCONNA2BIXFYJJ7NHKHSE.jpeg",
+      "publishedAt": "2022-01-24T01:15:00Z",
+      "content": "Scott Quiners family did everything to keep him alive in the face of COVID except prevent it.\r\nThe reportedly unvaccinated 55-year-old died Saturday after a court battle during which his wife fought … [+2293 chars]"
+    }
+  ]
+}
